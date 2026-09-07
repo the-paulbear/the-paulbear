@@ -13,14 +13,14 @@ Visit my personal website here <a href="https://paulmbaru.com" target="_blank">P
 <ul>
   <li>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="22" />
-    <strong>Personal Website:</strong>
-    <a href="https://paulmbaru.com/contact" target="_blank">Contact me on my personal website</a>
+    <strong>Contact me on my</strong>
+    <a href="https://paulmbaru.com/contact" target="_blank">Personal Website</a>
   </li>
 
   <li>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" />
-    <strong>LinkedIn:</strong>
-    <a href="https://se.linkedin.com/in/paul-mbaru-kamau" target="_blank">Connect with me on LinkedIn</a>
+    <strong>Connect with me on</strong>
+    <a href="https://se.linkedin.com/in/paul-mbaru-kamau" target="_blank">LinkedIn</a>
   </li>
 </ul>
 
