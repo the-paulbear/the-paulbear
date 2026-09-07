@@ -78,4 +78,4 @@ Visit my personal website here <a href="https://paulmbaru.com" target="_blank">P
     </p>
 ---
 
-### Thanks for stopping by!
+Thanks for stopping by!
