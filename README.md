@@ -42,13 +42,13 @@ Visit my personal website here <a href="https://paulmbaru.com" target="_blank">P
     <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="22"/> <strong>Jupyter Notebook</strong>,&nbsp;
     <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Desktop.png" width="22"/> <strong>Power BI</strong>,&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" width="22"/> <strong>SPSS</strong>,&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="22"/> <strong>TensorFlow</strong>,&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="22"/> <strong>PyTorch</strong>,&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="22"/> <strong>Scikit‑learn</strong>,&nbsp;
     <strong>Stan</strong>,&nbsp;
-    <img src="https://icon-icons.com/icons2/2699/PNG/512/sas_logo_icon_170762.png" width="22"/> <strong>SAS</strong>,&nbsp;
     <strong>OpenBUGS</strong>,&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" width="22"/> <strong>SPSS</strong>,&nbsp;
+    <img src="https://icon-icons.com/icons2/2699/PNG/512/sas_logo_icon_170762.png" width="22"/> <strong>SAS</strong>,&nbsp;
     <strong>WinBUGS</strong>
     </p>
 
