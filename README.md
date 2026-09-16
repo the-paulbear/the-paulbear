@@ -65,7 +65,9 @@ Visit my personal website here <a href="https://paulmbaru.com" target="_blank">P
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="22"/> <strong>Apache Spark</strong>,&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="22"/> <strong>Apache Kafka</strong>,&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="22"/> <strong>Hadoop</strong>,&nbsp;
-    <strong>OpenMP</strong>
+    <strong>OpenMP</strong>,&nbsp;
+     <strong>CUDA</strong>,&nbsp;
+    <strong>Kokkos</strong>
     </p>
 
 - #### ***Cloud‑Native & Orchestration;***
